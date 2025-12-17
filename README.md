@@ -29,7 +29,7 @@
 ###
 <h1 align="center">👨‍💻 Author</h1>
 ###
-<h4 align="center">Ouassim Addad<br>Github: @wassimaddad<br>Email: wassimaddadd12@gmail.com</h4>
+<h4 align="center">Ouassim Addad<br>Github: @wassimaddad<br>Email: ouassimad@proton.me</h4>
 ###
 <h2 align="center">⭐ If you like this project, don't forget to give it a star!</h2>
 ###
